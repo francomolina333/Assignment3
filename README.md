@@ -1,14 +1,17 @@
 Programming Assignment 3
+
 Note 1:
 Please, submit your work via Webcourses.
 Submissions by e-mail will not be accepted.
 Due date: Thursday, April 13th by 11:59 PM
 Late submissions are not accepted.
+
 Note 2:
 This assignment is individual.
 You can use a programming language of your choice for this assignment (limited to C++,
 Java, and Rust).
 If you do not have a preference for a programming language, I would recommend C++.
+
 Problem 1: The Birthday Presents Party (50 points)
 The Minotaur’s birthday party was a success. The Minotaur received a lot of presents
 from his guests. The next day he decided to sort all of his presents and start writing
