@@ -45,6 +45,7 @@ and implement a concurrent linked-list that can help the Minotaur’s 4 servants
 task. In your test, simulate this concurrent “Thank you” card writing scenario by
 dedicating 1 thread per servant and assuming that the Minotaur received 500,000
 presents from his guests.
+
 Problem 2: Atmospheric Temperature Reading Module (50 points)
 You are tasked with the design of the module responsible for measuring the atmospheric
 temperature of the next generation Mars Rover, equipped with a multicore CPU and 8
@@ -61,6 +62,7 @@ temperature readings are taken every 1 minute. In your solution, simulate the op
 of the temperature reading sensor by generating a random number from -100F to 70F at
 every reading. In your report, discuss the efficiency, correctness, and progress guarantee
 of your program.
+
 Grading policy:
 General program design and correctness: 50%
 Efficiency: 30%
